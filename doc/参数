@@ -1,6 +1,12 @@
-请求地址：http://localhost:8764/login/userLogin
+登录地址：http://localhost:8764/login/userLogin POST请求
 参数：
 username:admin
 password:123456
 uuid:123456
 verifyCode:123456
+
+
+
+查询接口地址：localhost:8764/admin/list   GET请求
+Header中加入参数：
+Authorization：值的话也就是登录成功后的token.

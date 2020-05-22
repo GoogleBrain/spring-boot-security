@@ -1,0 +1,6 @@
+请求地址：http://localhost:8764/login/userLogin
+参数：
+username:admin
+password:123456
+uuid:123456
+verifyCode:123456
